@@ -113,6 +113,62 @@
       "topicId": 4,
       "userId": 1,
       "id": 8
+    },
+    {
+      "title": "testing",
+      "body": "testing",
+      "date": "2023-10-05T15:20:13.347Z",
+      "topicId": 2,
+      "userId": 1,
+      "id": 9,
+      "topic": {
+        "id": 1,
+        "name": "Functions"
+      },
+      "user": {
+        "id": 1,
+        "name": "Vero Ayala",
+        "email": "VeroA@gmail.com",
+        "cohort": 67
+      }
+    },
+    {
+      "title": "testa",
+      "body": "testa",
+      "topicId": 1,
+      "id": 10
+    },
+    {
+      "title": "test1",
+      "body": "test1",
+      "topicId": 1,
+      "id": 11
+    },
+    {
+      "title": "testing",
+      "body": "testering",
+      "date": "2023-10-05T20:53:01.306Z",
+      "topicId": 1,
+      "userId": 1,
+      "id": 12,
+      "topic": {
+        "id": 3,
+        "name": "JavaScript Libraries"
+      },
+      "user": {
+        "id": 1,
+        "name": "Vero Ayala",
+        "email": "VeroA@gmail.com",
+        "cohort": 67
+      }
+    },
+    {
+      "title": "test1",
+      "body": "test1",
+      "date": "2023-10-05T21:06:27.790Z",
+      "topicId": 5,
+      "userId": 1,
+      "id": 13
     }
   ],
   "userPostLikes": [
