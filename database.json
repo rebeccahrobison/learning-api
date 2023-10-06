@@ -107,68 +107,12 @@
       "id": 7
     },
     {
-      "title": "test",
-      "body": "test",
-      "date": "2023-10-03T18:10:36.196Z",
-      "topicId": 4,
-      "userId": 1,
-      "id": 8
-    },
-    {
-      "title": "testing",
-      "body": "testing",
-      "date": "2023-10-05T15:20:13.347Z",
-      "topicId": 2,
-      "userId": 1,
-      "id": 9,
-      "topic": {
-        "id": 1,
-        "name": "Functions"
-      },
-      "user": {
-        "id": 1,
-        "name": "Vero Ayala",
-        "email": "VeroA@gmail.com",
-        "cohort": 67
-      }
-    },
-    {
-      "title": "testa",
-      "body": "testa",
-      "topicId": 1,
-      "id": 10
-    },
-    {
-      "title": "test1",
-      "body": "test1",
-      "topicId": 1,
-      "id": 11
-    },
-    {
-      "title": "testing",
-      "body": "testering",
-      "date": "2023-10-05T20:53:01.306Z",
-      "topicId": 1,
-      "userId": 1,
-      "id": 12,
-      "topic": {
-        "id": 3,
-        "name": "JavaScript Libraries"
-      },
-      "user": {
-        "id": 1,
-        "name": "Vero Ayala",
-        "email": "VeroA@gmail.com",
-        "cohort": 67
-      }
-    },
-    {
-      "title": "test1",
-      "body": "test1",
-      "date": "2023-10-05T21:06:27.790Z",
+      "title": "C# Interfaces",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "2023-10-06T16:09:59.891Z",
       "topicId": 5,
       "userId": 1,
-      "id": 13
+      "id": 8
     }
   ],
   "userPostLikes": [
@@ -198,11 +142,6 @@
       "postId": 5
     },
     {
-      "id": 6,
-      "userId": 2,
-      "postId": 3
-    },
-    {
       "id": 7,
       "userId": 3,
       "postId": 4
@@ -226,6 +165,16 @@
       "userId": 7,
       "postId": 1,
       "id": 11
+    },
+    {
+      "userId": 1,
+      "postId": 2,
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "postId": 3,
+      "id": 13
     }
   ],
   "topics": [
